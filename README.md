@@ -1,9 +1,6 @@
 # BMI_Calculator
 A simple BMI Calculator iOS app built with Swift and UIKit, developed while learning iOS development through The App Brewery's course.
-
 <img width="300" height="650" alt="Simulator Screenshot - iPhone 16 - 2026-09-12 at 15 36 07" src="https://github.com/user-attachments/assets/2b93a788-f2ec-4735-8f0b-56c44a4cf497" />
-
-
 
 
 <img width="300" height="650" alt="Simulator Screenshot - iPhone 16 - 2026-09-12 at 15 36 21" src="https://github.com/user-attachments/assets/6888d1cf-8218-473e-b870-8e5692249839" />
